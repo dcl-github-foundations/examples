@@ -1,3 +1,5 @@
+> All of the below was taken from andrew brown as part of a training course.  All rights below to him
+
 ## Git Hidden Folder
 
 There is a hidden folder called `.git` which tells you that our project is a git repo.
